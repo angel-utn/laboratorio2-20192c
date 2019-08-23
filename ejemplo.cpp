@@ -5,7 +5,8 @@ int main(){
   char cad1[30], cad2[30];
   cin >> cad1;
 
-  cad2 = cad1; //Arreglame
+ strcpy(cad2,cad1);
+  //arreglado
 
   return 0;
 }
