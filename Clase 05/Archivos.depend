@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1567167707 source:c:\users\administrador\desktop\clase 04\archivos\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	"articulo.h"
+
+1567167946 c:\users\administrador\desktop\clase 04\archivos\articulo.h
+
+1567777460 source:c:\users\administrador\desktop\clase 05\archivos\main.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	"articulo.h"
+
+1567778361 c:\users\administrador\desktop\clase 05\archivos\articulo.h
+
